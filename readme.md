@@ -159,3 +159,6 @@ Launch VS Code or Jupyter Notebook and run `kepler1D.ipynb` from start to finish
 ```bash
 jupyter notebook kepler1D.ipynb
 ```
+---
+##### Made with ❤ by Muhammad Zeeshan
+---
